@@ -28,7 +28,7 @@ Questo progetto è un sito web che mostra una collezione di libri in un formato 
 
 1. **Clone del repository**
 ```bash
-git clone https://github.com/tuo-username/booklet-online-bookstore.git
+git clone https://github.com/l30-il-l30/booklet-online-bookstor.git
 cd booklet-online-bookstore
 ```
 
