@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  letschat:
+    container_name: letschat_website
+    build: 
+      context: ./website
+      dockerfile: DockerFile
+    ports:
+      - "80:80"
+    volumes:
+      - ./website:/usr/local/apache2/htdocs
